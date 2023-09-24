@@ -2,7 +2,7 @@
 <h3> This is the repository for the tutorials on SQL, you can find a cheatsheet related to the content on tutorials to help you accelerate your learning </h3>
 <p align="left">
   <a href="https://www.youtube.com/watch?v=3-dDTMiZ4SI&list=PLuxrVWOO03T1IC-TlJQTjwEO8yHzqtMqn&index=1" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ibritics/SQL-Beginners/assets/90762709/53eb217b-1ba8-4f24-b416-385ca1205027" alt="mysql" width="1080">
+    <img src="https://img.youtube.com/vi/3-dDTMiZ4SI/maxresdefault.jpg" alt="mysql" width="1080">
   </a>
 </p>
 
